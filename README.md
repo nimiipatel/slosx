@@ -1,1 +1,1 @@
-This is a README on how to code for the SLOSX Website
+Access the website using [here](https://nimiipatel.github.io/slosx/)
